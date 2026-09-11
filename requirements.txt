@@ -1,0 +1,6 @@
+Plaintext
+Flask
+pdfplumber
+pandas
+openpyxl
+gunicorn
